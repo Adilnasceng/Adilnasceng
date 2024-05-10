@@ -2,8 +2,7 @@
 
 
 https://github.com/Adilnasceng/Adilnasceng/assets/147250015/a1e6955f-5f7b-4690-949a-ad95ae8f48fb
-- 📫 How to reach me **adilnas
-ceng@gmail.com**
+- 📫 How to reach me **adilnasceng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
