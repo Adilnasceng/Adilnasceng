@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="/images/intro.gif" alt="INTRO">
+<img src="./images/intro.gif" alt="INTRO">
 </div>
 
 - 📫 How to reach me **adilnasceng@gmail.com**
