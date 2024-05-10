@@ -1,7 +1,9 @@
 
 
+<div align="center">
+<img src="/images/intro.gif" alt="INTRO" width="400" height="400">
+</div>
 
-https://github.com/Adilnasceng/Adilnasceng/assets/147250015/a1e6955f-5f7b-4690-949a-ad95ae8f48fb
 - 📫 How to reach me **adilnasceng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
