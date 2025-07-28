@@ -4,7 +4,7 @@
 <img src="./images/intro.gif" alt="INTRO">
 </div>
 
-- 📫 How to reach me **adilnasceng@gmail.com**
+📫 How to reach me **adilnasceng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
